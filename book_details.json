@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Mathematics",
+        "id":"A12D",
+        "author":"rd sharma",
+        "copies":4
+    },
+    {
+        "name":"Physics",
+        "id":"A12Q",
+        "author":"H.c.verma",
+        "copies":10
+    },
+    {
+        "name":"Python",
+        "id":"A12L",
+        "author":"Rajnikant",
+        "copies":4
+    }
+]
